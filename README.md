@@ -1,4 +1,4 @@
-# sbmus
+# SMBus
 Description of SMBus (based on I2c) with PEC. Language - VHDL.
 Supports multiple bytes writing/reading.
 Both master and slave are programmed as state machines,they have almost identical states.
